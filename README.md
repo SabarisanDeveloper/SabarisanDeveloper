@@ -24,9 +24,9 @@
 ---
 
 ### 📊 GitHub Stats
-![Sabari's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)
+![Sabari's GitHub stats](https://github-readme-stats.vercel.app/api?username=SabarisanDeveloper&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SabarisanDeveloper&layout=compact)
 
 ---
 
