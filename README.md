@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sabari</h1>
+<h3 align="center">A passionate PHP & JS Developer from India</h3>
 
-<!--
-**SabarisanDeveloper/SabarisanDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- 🔭 I’m currently working on **Logistics Automation Web App**
+- 🌱 I’m currently learning **Python AI Integration**
+- 💬 Ask me about **PHP, JS, jQuery, MySQL**
+- 📫 How to reach me: [LinkedIn]([https://linkedin.com/in/YOURUSERNAME](https://www.linkedin.com/in/sabarisan-p-15aa1a26a/)) | 
+- ⚡ Fun fact: I love Gym & Bodybuilding!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages and Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+![Sabari's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact)
+
+---
+
+### 🧠 Currently Learning
+- AI Projects using Python
+- Face Recognition Attendance System
+- E-Commerce Recommendations
