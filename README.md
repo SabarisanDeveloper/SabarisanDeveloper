@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on **Logistics Automation Web App**
 - 🌱 I’m currently learning **Python AI Integration**
 - 💬 Ask me about **PHP, JS, jQuery, MySQL**
-- 📫 How to reach me: [LinkedIn]([https://linkedin.com/in/YOURUSERNAME](https://www.linkedin.com/in/sabarisan-p-15aa1a26a/)) | 
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/sabarisan-p-15aa1a26a) | [Twitter](https://twitter.com/YOURUSERNAME)
 - ⚡ Fun fact: I love Gym & Bodybuilding!
 
 ---
